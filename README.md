@@ -5,7 +5,7 @@ which means it way to create software around objects.
 
 - OOPs provide a clear structure for the software and web applications.
 
-  Advantage of OPPs-
+  Advantage of OPPs:-
 
 1- Reuse of code using inheritance.
 
@@ -17,6 +17,7 @@ which means it way to create software around objects.
 
 5- Easier troubleshooting of code because of modularity.
 
-Disdvantage of OPPs-
+Disdvantage of OPPs:-
+
 1- It is not suitable for small applications.
 
